@@ -1,2 +1,2 @@
 # truongchan.github.io
-a website for truongchan
+truong chan's personal website
